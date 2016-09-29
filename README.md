@@ -1,2 +1,2 @@
-# -myGitTest
+# myGitTest
 Testing here
